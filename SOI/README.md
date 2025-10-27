@@ -1,34 +1,21 @@
-# 🖥️ Sistemas Operativos (SOI)
+# 📚 2-Práctica
 
-Este repositorio contiene prácticas y ejercicios realizados durante el curso de **Sistemas Operativos II**, enfocados en el uso de comandos de Linux, manejo de procesos e implementación de hilos (threads) en C.
+Este repo contiene **todas las prácticas del primer cuatrimestre** de distintas materias. Algunas salieron mejor que otras, pero están todas acá por si te sirven de referencia.
 
+## 🔌 Redes  
+Hay un par de errores medios raros dando vuelta. Aun así, me saqué un **7.8** en las prácticas.
 
+## 🧵 SOI (Sistemas Operativos I)  
+Alguna práctica directamente está mal, como una sobre **N hijos** que quedó medio rota. Nota final de prácticas: **7.5**.
 
-## 🐧 1. Comandos de Linux
+## 🧠 AED (Algoritmos y Estructuras de Datos)  
+Depende un poco del **tiempo que tenga la profe** para corregir. A veces te pone buena nota, a veces no tanto, pero el código en general está bastante bien. Os pondrá cuatro parvadas que teneis bien pero a ella casualmente no le funcionan (ni debe ejecutar el código).
 
-Ejercicios orientados a familiarizarse con el entorno Linux y el uso de su terminal:
+## 🧼 POO (Programación Orientada a Objetos)  
+Estas están dpm, creo que no hay nada que corregir. 
 
-- Navegación por el sistema de archivos
-- Permisos y gestión de usuarios
-- Gestión de procesos (`ps`, `top`, `kill`, etc.)
-- Redirección, tuberías (`|`) y filtros
-- Herramientas esenciales (`grep`, `find`, `chmod`, `chown`, `tar`, etc.)
+---
 
-## ⚙️ 2. Procesos
+> No todas las prácticas están perfectas, pero la mayoría están completas y funcionales. Úsalas con criterio y no las copies sin entender. Pero esto ya supongo que no hace falta ni decirlo
 
-Programas en C que exploran la creación y control de procesos:
-
-- Uso de `fork()` y `wait()`
-- Comunicación entre procesos (pipes anónimos y señales)
-- Ejecución de otros programas con `exec()`
-- Sincronización y manejo de múltiples procesos
-
-## 🧵 3. Hilos (Threads)
-
-Ejercicios prácticos sobre programación concurrente con hilos usando `pthread`:
-
-- Creación y finalización de hilos
-- Comunicación entre hilos
-- Exclusión mutua con `mutex`
-- Condiciones de carrera y sincronización
-
+---
