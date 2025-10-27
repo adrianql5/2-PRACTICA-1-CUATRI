@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 #include <signal.h>  // Biblioteca para el manejo de señales.
 #include <stdio.h>   // Biblioteca estándar de entrada/salida.
 #include <unistd.h>  // Biblioteca para llamadas al sistema (como fork, sleep, etc.).

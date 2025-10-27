@@ -1,3 +1,5 @@
+Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 Aegon Targaryen|Targaryen|1|Elia Martell,Rhaegar Targaryen|Rhaenys Targaryen,Jon Snow|-|
 Aeron Greyjoy|Greyjoy|0|-|Balon Greyjoy,Euron Greyjoy|-|
 Aerys II Targaryen|Targaryen|1|-|Rhaella Targaryen|Brandon Stark,Rickard Stark|

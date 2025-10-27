@@ -1,3 +1,5 @@
+<!-- Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos -->
+
 ## Sockets
 
 Interfaz entre una **app** y la **capa de transporte**. La app solicita una transmision de datos y la capa de transporte la realiza.

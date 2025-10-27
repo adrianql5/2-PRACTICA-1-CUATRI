@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 #ifndef PILA_H_OPERADORES
 #define PILA_H_OPERADORES
 

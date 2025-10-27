@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 #ifndef FUNCIONESEXPRESION_H
 #define FUNCIONESEXPRESION_H
 //Funciones para construccion del arbol de expresion

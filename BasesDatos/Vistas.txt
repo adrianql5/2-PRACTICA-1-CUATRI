@@ -1,3 +1,5 @@
+Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 CREATE OR REPLACE VIEW plato_mas_popular_de_cada_restaurante AS
 WITH
 -- Calculamos la frecuencia con la que se pide cada plato en cada restaurante

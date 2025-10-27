@@ -1,3 +1,5 @@
+<!-- Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos -->
+
 ## Direcciones IP
 En Internet, cada dispositivo se identifica mediante una dirección *IP*.
 

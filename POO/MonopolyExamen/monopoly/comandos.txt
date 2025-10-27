@@ -1,3 +1,5 @@
+Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 + jugador1 > cambiar modo
 + jugador1 > lanzar dados (3+2)
 + jugador1 > comprar Trans1

@@ -1,3 +1,5 @@
+Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 Proceso Impares: Media = -2.478971615569740 Tiempo = 0.454097000000000 segundos Pid: 107080
 Proceso Pares: Media = 0.647612590115112 Tiempo = 0.462002000000000 segundos Pid: 107079
 Proceso 4: Media = -0.915679512727314 Tiempo = 0.462002000000000 segundos Pid: 107087

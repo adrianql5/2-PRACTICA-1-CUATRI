@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 #ifndef RECORRIDOS_H
 #define RECORRIDOS_H
 // Interfaz de usuario de los recorridos del arbol binario

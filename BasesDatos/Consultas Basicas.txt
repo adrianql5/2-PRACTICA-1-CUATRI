@@ -1,3 +1,5 @@
+Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 -- 1. ¿Cuántos camareros trabajan en un restaurante específico?
 -- Contamos el número total de camareros que trabajan en el restaurante ubicado en "Rua de Conxo de Arriba, 49".
 SELECT COUNT(*) AS TotalCamareros

@@ -1,3 +1,5 @@
+// Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 #ifndef TABLA_HASH_ENCADENAMIENTO_H
 #define TABLA_HASH_ENCADENAMIENTO_H
 //////////////////////////////////////////////////////////////////////////////////////////

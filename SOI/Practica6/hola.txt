@@ -1,3 +1,5 @@
+Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
 Hola Mundo 123!
 Este es un Ejemplo de Texto con Numeros y MAYUSCULAS.
 El numero 4 se convertira en ****.
