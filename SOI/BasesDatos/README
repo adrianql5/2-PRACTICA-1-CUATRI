@@ -1,0 +1,24 @@
+# 🍽️ Diseño de Base de Datos - Restaurante
+
+Este repositorio contiene el diseño y la implementación de una base de datos relacional para la gestión de un **restaurante**, desarrollada en SQL.
+
+## 📄 Descripción
+
+El proyecto aborda la creación de una base de datos que permita gestionar de forma eficiente la información clave de un restaurante, incluyendo:
+
+- Menús y platos
+- Pedidos y facturación
+- Clientes
+- Mesas y reservas
+- Personal
+
+El diseño sigue principios de **normalización**, con claves primarias, foráneas y restricciones adecuadas para asegurar la integridad de los datos.
+
+
+## 👥 Autores
+
+- Adrián Quiroga Linares  
+- Antonio Sáenz Veiga  
+- Isabel Gude Gómez  
+- Daniel Álvarez Sueiro  
+- Marcos Brandón Gómez

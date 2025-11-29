@@ -1,0 +1,7 @@
+Copyright (c) 2025 Adrián Quiroga Linares Lectura y referencia permitidas; reutilización y plagio prohibidos
+
+hola mundo ******!
+este es un ejemplo de texto con numeros y mayusculas.
+el numero **** se convertira en ****.
+el numero ******* se convertira en *******.
+fin.
